@@ -1,0 +1,11 @@
+customer_id,name,email,age,city
+1,John Doe,john.doe@example.com,28.0,New York
+2,Jane Smith,abc@gmail.com,34.0,Los Angeles
+3,Bob Lee,bob.lee@example.com,28.0,Chicago
+4,Alice Wong,alice.wong@example.com,27.0,San Francisco
+5,John Doe,john.doe@example.com,28.0,New York
+6,Aditya,abc@gmail.com,45.0,Miami
+7,Tom Hill,tom.hill@example.com,28.0,Seattle
+8,Emily Stone,emily.stone@example.com,22.0,Pune
+9,Chris King,abc@gmail.com,30.0,Boston
+10,Mary Clark,mary.clark@example.com,28.0,Denver
