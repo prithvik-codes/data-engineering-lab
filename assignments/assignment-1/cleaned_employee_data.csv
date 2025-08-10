@@ -1,0 +1,12 @@
+emp_id,name,email,joining_date,department,salary
+101,Alice Johnson,alice@company.com,2020-03-01,Human Resources,55000
+102,Bob Smith,bob@company.com,2021-06-15,Human Resources,60000
+103,Charlie Lee,charlie@company.com,2025-01-01,Finance,61000
+104,David Kim,david.k@company.com,1900-01-01,Human Resources,65000
+105,Emily Chen,emily.c@company.com,2018-11-23,Information Technology,54000
+106,Frank Green,frank@company.com,2022-09-01,Marketing,80000
+107,Grace Davis,grace@company.com,2023-04-10,Information Technology,72000
+108,Hannah White,hannah.white@company.com,2024-02-20,Information Technology,52000
+109,Ivan Petrov,ivan.petrov@company.com,1900-01-01,Finance,70000
+110,Laura Miller,laura.m@company.com,2021-02-28,Marketing,75000
+111,Mark Wilson,mark.w@company.com,2022-10-10,Finance,90000

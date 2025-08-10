@@ -1,0 +1,8 @@
+"emp_id,name,email,joining_date,department,salary"
+"101,Alice Johnson,alice@company.com,2020-03-01,Human Resources,55000"
+"102,Bob Smith,bob.smithcompany.com,2021-06-15,HR,60000"
+"103,Charlie Lee,charlie.lee@company.com,2025-01-01,Finance,0"
+"104,NaN,,2019-08-01,hr,65000"
+"105,David Kim,david.kim@company.com,,IT,72000"
+"106,Emily Zhang,,2018-11-23,Information Technology,NaN"
+"101,Alice Johnson,alice@company.com,2020-03-01,Human Resources,55000"
