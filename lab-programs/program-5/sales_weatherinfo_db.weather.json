@@ -1,0 +1,16 @@
+[{
+  "_id": {
+    "$oid": "68d2f9ec0154467296314a04"
+  },
+  "city": "London",
+  "weather_date": {
+    "$date": "2025-09-23T00:00:00.000Z"
+  },
+  "description": "overcast clouds",
+  "fetched_at": {
+    "$date": "2025-09-23T19:50:04.866Z"
+  },
+  "humidity": 73,
+  "source": "openweather",
+  "temp_c": 13.68
+}]
